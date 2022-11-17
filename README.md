@@ -1,4 +1,5 @@
-**TEKNOFEST 2022 Fighter UAV**
+**TEKNOFEST 2022 Fighter UAV Simulation**
+
 **Works on Ubuntu 20.04 and Upper Versions**
 
 E-mail address for connection; yasincildir00@gmail.com
